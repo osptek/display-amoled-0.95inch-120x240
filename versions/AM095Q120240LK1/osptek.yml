@@ -1,0 +1,10 @@
+id: AM095Q120240LK1
+category: displays
+size: "0.95"
+panel: amoled
+resolution: 120x240
+interface: [qspi]
+driver: SH8501A
+touch: null
+outline: 12.80 x 27.35 mm
+active_area: 10.80 x 21.60 mm
