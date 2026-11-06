@@ -1,0 +1,10 @@
+id: AM095Q120240XZ
+category: displays
+size: "0.95"
+panel: amoled
+resolution: 120x240
+interface: [spi]
+driver: SH8501G
+touch: null
+outline: 12.8 x 27.35 mm
+active_area: 10.8 x 21.6 mm
